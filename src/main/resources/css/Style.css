@@ -1,0 +1,11 @@
+.round-button {
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-background-color: #0097a7; /* Change color as you like */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+}
+.round-button:hover {
+    -fx-background-color: #00bcd4;
+}
